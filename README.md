@@ -9,4 +9,4 @@
  
  @cidoffy
 
-Olá comunidade Dev, meu nome é Iuri, sou estudante de programação com foco no desenvolvimento Back-end (APIs e Mobile), seu comentário e sua ajuda será sempre benvinda. 
+Olá comunidade Dev, meu nome é Iuri, sou estudante de programação com foco no desenvolvimento Back-end (APIs e Mobile), seu comentário e sua ajuda será sempre bem vinda. 
