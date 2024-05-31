@@ -5,7 +5,7 @@ Atualmente sou Estudante do curso de bacharel em Ciência da Computação, forma
 
 ### Projetos em estudo pessoal
     - Desenvolvimento de uma IA
-    - Um Site iteligente para escola publica
+    - Um Site inteligente para escola publica
     - Sitema de reconhecimento facial
 
 
