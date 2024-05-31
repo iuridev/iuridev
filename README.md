@@ -3,6 +3,12 @@
 ## Estudante
 Atualmente sou Estudante do curso de bacharel em Ciência da Computação, formado em bacharel em Sistema de Informação e pós-graduação em desenvolvimento Mobile.
 
+### Projetos em estudo pessoal
+    - Desenvolvimento de uma IA
+    - Um Site iteligente para escola publica
+    - Sitema de reconhecimento facial
+
+
 ### Objetivo
 Meu principal objetivo é ser um agente ativo no mundo da tecnologia, contribuindo em projetos e ajudando a criar novas tecnologias.
 
