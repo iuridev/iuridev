@@ -1,37 +1,58 @@
-# Iuri Barreto
+# Olá, eu sou o Iuri Barreto! 👋
 
-## Estudante
-Atualmente sou Estudante do curso de bacharel em Ciência da Computação, formado em bacharel em Sistema de Informação e pós-graduação em desenvolvimento Mobile.
+### Desenvolvedor Full-Stack | Acadêmico de Ciência da Computação | Agente de Organização Escolar
 
-### Projetos em estudo pessoal
-    - Desenvolvimento de uma IA
-    - Um Site inteligente para escola publica
-    - Sitema de reconhecimento facial
+Sou um apaixonado por tecnologia, atualmente focado em transformar a gestão educacional através do desenvolvimento de software. Trabalho no **SEDUC-SP** e dedico meu tempo livre ao estudo de arquitetura de sistemas, automação e inteligência artificial.
 
+---
 
-### Objetivo
-Meu principal objetivo é ser um agente ativo no mundo da tecnologia, contribuindo em projetos e ajudando a criar novas tecnologias.
+## 🛠️ Habilidades e Tecnologias
 
-#### Hailidades
-![Python](https://img.shields.io/badge/python-9400ff?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+### **Linguagens & Base**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+### **Front-end & Mobile**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-#### Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iuri-barreto-38186081/)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iuribarreto773/)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:iuribarreto.ib@gmail.com)
-#### Resulmo
+### **Back-end & Database**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<div align="center">
+### **Ferramentas & DevOp**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iuridev&bg_color=000&border_color=000C&title_color=9400ff&text_color=FFF)
+---
 
-</div>
+## 🚀 Projetos em Destaque
 
-##### No momento meu foco te estudo e pesquisa esta sendo na linguagem python
+* **SGE-GSU-II:** Sistema completo para gestão de infraestrutura e consumo escolar.
+* **SAM Prodesp Automation:** Script em Python/Selenium para automação de regularização de ativos governamentais.
+* **IA de Reconhecimento Facial:** Estudo aplicado para segurança e frequência escolar.
 
-## Minhas Contribuições
+---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=iuridev&theme=shadow-purple&background=000)](https://git.io/streak-stats)
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuridev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuridev&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
+---
+
+## 📫 Entre em contato
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_USUARIO_AQUI)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+
+---
+<p align="center">
+  "O principal objetivo é ser um agente ativo no mundo da tecnologia, criando soluções que impactam vidas."
+</p>
