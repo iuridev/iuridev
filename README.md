@@ -42,7 +42,7 @@ Sou um apaixonado por tecnologia, atualmente focado em transformar a gestão edu
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuridev&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuridev&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuridev&layout=compact&langs_count=7&theme=tokyonight&hide=c++,c,roff"/>
 </p>
 
 ---
